@@ -49,11 +49,14 @@ const Home = () => {
                  ">
                   <div className="border border-black
                     bg-black rounded-full cursor-pointer">
-                    <button className="text-white text-sm
-                    font-semibold ml-3 mr-3 mb-2.5 mt-2
-                    cursor-pointer">
-                      Download Resume
-                    </button>
+                      <a href="rameez-resume.pdf" download>
+                        <button className="text-white text-sm
+                          font-semibold ml-3 mr-3 mb-2.5 mt-2
+                          cursor-pointer">
+                          Download Resume
+                        </button>
+                      </a>
+                    
                   </div>                  
                 </div>
             </div>
