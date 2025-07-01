@@ -50,6 +50,17 @@ const Projects = () => {
                             </p>                            
                         </h3>
                     </div>
+                    <div className="flex justify-center mb-6 mt-6
+                     text-white font-semibold">
+                        <a href="https://rameezmuhammed.github.io/Prime-Kitchen/"
+                        target="blank" rel="noopener noreferrer">
+                            <button className="text-sm border
+                                border-orange-600 bg-orange-600 pl-3 pr-3
+                                rounded-full hover:bg-red-600 cursor-pointer">
+                                Go to the Website
+                            </button>
+                        </a>                        
+                    </div>
                 </div>          
             </div>            
         </div> 
@@ -92,6 +103,19 @@ const Projects = () => {
                             </p>                            
                         </h3>
                     </div>
+                    <div className="flex justify-center mb-6 mt-6
+                     text-white font-semibold">
+                        <a href="https://rameezmuhammed.github.io/Second-Seller/"
+                        target="blank" rel="noopener noreferrer">
+                            <button className="text-sm border
+                                border-purple-600 bg-purple-600 pl-3 pr-3
+                                rounded-full hover:bg-purple-900 cursor-pointer">
+                                Go to the Website
+                            </button>
+                        </a>                        
+                    </div>
+
+
                 </div>          
             </div>            
         </div>
@@ -112,7 +136,7 @@ const Projects = () => {
                         everything about me.  
                     </p>
                     <div className="flex mt-4 mb-4 text-sm 
-                    font-semibold text-white gap-4">
+                     font-semibold text-white gap-4">
                         <h3 className="border bg-black rounded">
                             <p className="ml-2 mr-2">
                                 HTML
@@ -133,6 +157,17 @@ const Projects = () => {
                                 TAILWIND CSS
                             </p>                            
                         </h3>
+                    </div>
+                    <div className="flex justify-center mb-6 mt-6
+                     text-white font-semibold">
+                        <a href="https://rameezmuhammed.github.io/Personal-Portfolio/"
+                        target="blank" rel="noopener noreferrer">
+                            <button className="text-sm border
+                                border-black bg-black pl-3 pr-3
+                                rounded-full hover:text-base cursor-pointer">
+                                Go to the Website
+                            </button>
+                        </a>                        
                     </div>
                 </div>          
             </div>            
